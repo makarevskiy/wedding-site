@@ -1,0 +1,21 @@
+# Логи
+*.log
+
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+# Файлы редактора
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Конфиденциальные данные
+*.env
+config.php
+secrets.json
